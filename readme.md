@@ -1,4 +1,4 @@
-# What affects a taxi ride in Chicago? (An analysis for hypothetical ride-sharing company Zuber)
+# What affects a taxi ride in Chicago?
 
 ### Background
 
